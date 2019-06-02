@@ -23,4 +23,8 @@ https://leetcode.com/problems/implement-strstr/
 8. Count and Say
 https://leetcode.com/problems/count-and-say/
 
+9. Merge Sorted Array
+https://leetcode.com/problems/merge-sorted-array/
 
+10. Sqrt
+https://leetcode.com/problems/sqrtx/submissions/
