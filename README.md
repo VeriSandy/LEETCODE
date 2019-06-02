@@ -34,3 +34,9 @@ https://leetcode.com/problems/plus-one/
 
 12. Climbing Stairs
 https://leetcode.com/problems/climbing-stairs/
+
+13. Maximum Subarray
+https://leetcode.com/problems/maximum-subarray/
+
+14. Add Two Numbers, given in the form of linked list
+https://leetcode.com/problems/add-two-numbers/
