@@ -28,3 +28,9 @@ https://leetcode.com/problems/merge-sorted-array/
 
 10. Sqrt
 https://leetcode.com/problems/sqrtx/submissions/
+
+11. Plus One
+https://leetcode.com/problems/plus-one/
+
+12. Climbing Stairs
+https://leetcode.com/problems/climbing-stairs/
