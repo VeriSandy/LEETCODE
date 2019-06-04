@@ -46,3 +46,8 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 16. Search in Rotated Sorted Array
 https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+17. First Missing Positive
+https://leetcode.com/problems/first-missing-positive/
+
+18.
