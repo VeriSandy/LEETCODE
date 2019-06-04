@@ -40,3 +40,7 @@ https://leetcode.com/problems/maximum-subarray/
 
 14. Add Two Numbers, given in the form of linked list
 https://leetcode.com/problems/add-two-numbers/
+
+15. Search in Rotated Sorted Array
+https://leetcode.com/problems/search-in-rotated-sorted-array/
+
