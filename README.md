@@ -53,4 +53,10 @@ https://leetcode.com/problems/first-missing-positive/
 18. Median of Two Sorted Arrays
 https://leetcode.com/problems/median-of-two-sorted-arrays/
 
+19. Longest Palindromic Subsequence
+https://leetcode.com/problems/longest-palindromic-subsequence/
+
+20. Longest Palindromic Substring
+https://leetcode.com/problems/longest-palindromic-substring/
+
 
