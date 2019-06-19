@@ -67,3 +67,9 @@ https://leetcode.com/problems/roman-to-integer/
 
 23. String to Integer (atoi)
 https://leetcode.com/problems/string-to-integer-atoi/
+
+24. Trapping Rain Water
+https://leetcode.com/problems/trapping-rain-water/
+
+25. Container With Most Water
+https://leetcode.com/problems/container-with-most-water/
