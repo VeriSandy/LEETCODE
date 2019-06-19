@@ -76,3 +76,9 @@ https://leetcode.com/problems/container-with-most-water/
 
 26. 3Sum
 https://leetcode.com/problems/3sum/
+
+27. Longest Common Prefix
+https://leetcode.com/problems/longest-common-prefix/
+
+28. Merge k Sorted Lists
+https://leetcode.com/problems/merge-k-sorted-lists/
