@@ -73,3 +73,6 @@ https://leetcode.com/problems/trapping-rain-water/
 
 25. Container With Most Water
 https://leetcode.com/problems/container-with-most-water/
+
+26. 3Sum
+https://leetcode.com/problems/3sum/
