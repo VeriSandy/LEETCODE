@@ -91,3 +91,7 @@ https://leetcode.com/problems/spiral-matrix/
 
 31. Pow(x, n)
 https://leetcode.com/problems/powx-n/
+
+32. Minimum Window Substring
+https://leetcode.com/problems/minimum-window-substring/
+
