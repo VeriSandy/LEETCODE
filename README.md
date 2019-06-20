@@ -82,3 +82,9 @@ https://leetcode.com/problems/longest-common-prefix/
 
 28. Merge k Sorted Lists
 https://leetcode.com/problems/merge-k-sorted-lists/
+
+29. Set Matrix Zeroes
+https://leetcode.com/problems/set-matrix-zeroes/
+
+30. Spiral Matrix
+https://leetcode.com/problems/spiral-matrix/
