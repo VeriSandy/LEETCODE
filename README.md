@@ -88,3 +88,6 @@ https://leetcode.com/problems/set-matrix-zeroes/
 
 30. Spiral Matrix
 https://leetcode.com/problems/spiral-matrix/
+
+31. Pow(x, n)
+https://leetcode.com/problems/powx-n/
