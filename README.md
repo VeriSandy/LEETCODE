@@ -100,3 +100,8 @@ https://leetcode.com/problems/word-search/
 
 34.Rotting Oranges
 https://leetcode.com/problems/rotting-oranges/
+
+35. Merge Intervals
+https://leetcode.com/problems/merge-intervals/
+
+
