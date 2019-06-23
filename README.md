@@ -38,6 +38,8 @@ https://leetcode.com/problems/climbing-stairs/
 13. Maximum Subarray
 https://leetcode.com/problems/maximum-subarray/
 
+
+
 14. Add Two Numbers, given in the form of linked list
 https://leetcode.com/problems/add-two-numbers/
 
@@ -104,4 +106,8 @@ https://leetcode.com/problems/rotting-oranges/
 35. Merge Intervals
 https://leetcode.com/problems/merge-intervals/
 
+36. Jump Game
+https://leetcode.com/problems/jump-game/
 
+37. Divide Two Integers
+https://leetcode.com/problems/divide-two-integers/
