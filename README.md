@@ -123,3 +123,7 @@ https://leetcode.com/problems/unique-paths/
 
 41. Rotate Image
 https://leetcode.com/problems/rotate-image/
+
+42. Permutations
+https://leetcode.com/problems/permutations/
+
