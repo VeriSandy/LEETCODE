@@ -133,3 +133,6 @@ https://leetcode.com/problems/generate-parentheses/
 44. Letter Combinations of a Phone Number
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
+45. Valid Sudoku
+https://leetcode.com/problems/valid-sudoku/submissions/
+
