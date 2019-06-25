@@ -127,3 +127,5 @@ https://leetcode.com/problems/rotate-image/
 42. Permutations
 https://leetcode.com/problems/permutations/
 
+43.Generate Parentheses
+https://leetcode.com/problems/generate-parentheses/
