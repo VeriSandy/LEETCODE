@@ -136,3 +136,5 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 45. Valid Sudoku
 https://leetcode.com/problems/valid-sudoku/submissions/
 
+46.Largest Rectangle in Histogram
+https://leetcode.com/problems/largest-rectangle-in-histogram/
