@@ -153,3 +153,10 @@ https://leetcode.com/problems/min-stack/
 
 51. Intersection of Two Linked Lists
 https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+52. Number of 1 Bits
+https://leetcode.com/problems/number-of-1-bits/
+
+53. Reverse Linked List
+https://leetcode.com/problems/reverse-linked-list/
+
