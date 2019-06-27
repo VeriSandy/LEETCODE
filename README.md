@@ -142,3 +142,5 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/
 47. Decode Ways
 https://leetcode.com/problems/decode-ways/
 
+48. Symmetric Tree
+https://leetcode.com/problems/symmetric-tree/submissions/
