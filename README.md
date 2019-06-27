@@ -144,3 +144,9 @@ https://leetcode.com/problems/decode-ways/
 
 48. Symmetric Tree
 https://leetcode.com/problems/symmetric-tree/submissions/
+
+49. Find Peak Element
+https://leetcode.com/problems/find-peak-element/
+
+50.  Min Stack
+https://leetcode.com/problems/min-stack/
