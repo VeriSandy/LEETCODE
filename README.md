@@ -138,3 +138,7 @@ https://leetcode.com/problems/valid-sudoku/submissions/
 
 46.Largest Rectangle in Histogram
 https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+47. Decode Ways
+https://leetcode.com/problems/decode-ways/
+
