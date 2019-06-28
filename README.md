@@ -168,3 +168,6 @@ https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
 56. Contains Duplicate
 https://leetcode.com/problems/contains-duplicate/
+
+57. Sort List   
+https://leetcode.com/problems/sort-list/submissions/
