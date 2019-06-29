@@ -192,3 +192,6 @@ https://leetcode.com/problems/longest-consecutive-sequence/
 
 64. Valid Palindrome
 https://leetcode.com/problems/valid-palindrome/
+
+65. Convert Sorted Array to Binary Search Tree
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
