@@ -186,3 +186,6 @@ https://leetcode.com/problems/surrounded-regions/
 
 62. Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/
+
+63. Longest Consecutive Sequence
+https://leetcode.com/problems/longest-consecutive-sequence/
