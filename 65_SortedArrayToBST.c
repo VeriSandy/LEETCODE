@@ -1,5 +1,9 @@
-
 /*
+Convert Sorted Array to Binary Search Tree
+Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
+For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the 
+two subtrees of every node never differ by more than 1.
+
 exploit the sorted array.
 Assign mid to root and divide array in two parts.
 assign left mid to left child of root
