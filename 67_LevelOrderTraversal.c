@@ -6,7 +6,7 @@ Idea -- Use Queue
 And NULL as a delimiter
 */
 
-ypedef struct node
+typedef struct node
 {
     struct TreeNode *tNode;
     struct node *next;
