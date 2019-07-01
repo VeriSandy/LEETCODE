@@ -204,3 +204,9 @@ https://leetcode.com/problems/binary-tree-level-order-traversal/
 
 68. Binary Tree Zigzag Level Order Traversal
 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+
+69. Happy Number
+https://leetcode.com/problems/happy-number/
+
+70. Populating Next Right Pointers in Each Node
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
