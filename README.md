@@ -213,3 +213,9 @@ https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
 71. Word Break
 https://leetcode.com/problems/word-break/
+
+72. Word Ladder
+https://leetcode.com/problems/word-ladder/
+
+73. Implement Trie (Prefix Tree)
+https://leetcode.com/problems/implement-trie-prefix-tree/
