@@ -222,3 +222,6 @@ https://leetcode.com/problems/implement-trie-prefix-tree/
 
 74. Largest Number
 https://leetcode.com/problems/largest-number/
+
+75. Max Points on a Line
+https://leetcode.com/problems/max-points-on-a-line/
