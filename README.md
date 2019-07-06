@@ -225,3 +225,9 @@ https://leetcode.com/problems/largest-number/
 
 75. Max Points on a Line
 https://leetcode.com/problems/max-points-on-a-line/
+
+76. Majority Element
+https://leetcode.com/problems/majority-element/
+
+77. Pascal's Triangle
+https://leetcode.com/problems/pascals-triangle/
