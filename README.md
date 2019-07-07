@@ -234,3 +234,9 @@ https://leetcode.com/problems/pascals-triangle/
 
 78. Factorial Trailing Zeroes
 https://leetcode.com/problems/factorial-trailing-zeroes/
+
+79. Rotate Array
+https://leetcode.com/problems/rotate-array/
+
+80. Reverse Bits
+https://leetcode.com/problems/reverse-bits/
