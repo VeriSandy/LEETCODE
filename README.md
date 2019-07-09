@@ -243,3 +243,8 @@ https://leetcode.com/problems/reverse-bits/
 
 81. Product of Array Except Self
 https://leetcode.com/problems/product-of-array-except-self/
+
+82. Find the Duplicate Number
+https://leetcode.com/problems/find-the-duplicate-number/
+https://www.geeksforgeeks.org/find-duplicates-constant-array-elements-0-n-1-o1-space/
+
