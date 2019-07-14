@@ -259,3 +259,6 @@ https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 86. Game of Life
 https://leetcode.com/problems/game-of-life/
+
+87. Shuffle an Array
+https://leetcode.com/problems/shuffle-an-array/
