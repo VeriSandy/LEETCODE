@@ -250,3 +250,6 @@ https://www.geeksforgeeks.org/find-duplicates-constant-array-elements-0-n-1-o1-s
 
 83. 4Sum II
 https://leetcode.com/problems/4sum-ii/
+
+84. Kth Smallest Element in a Sorted Matrix
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
