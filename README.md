@@ -262,3 +262,6 @@ https://leetcode.com/problems/game-of-life/
 
 87. Shuffle an Array
 https://leetcode.com/problems/shuffle-an-array/
+
+88. Count of Smaller Numbers After Self
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/
