@@ -265,3 +265,6 @@ https://leetcode.com/problems/shuffle-an-array/
 
 88. Count of Smaller Numbers After Self
 https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+
+89. Fizz Buzz
+https://leetcode.com/problems/fizz-buzz/
