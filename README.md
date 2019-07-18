@@ -286,3 +286,6 @@ https://leetcode.com/problems/reverse-string/
 
 95. Valid Anagram
 https://leetcode.com/problems/valid-anagram/
+
+96. Missing Number
+https://leetcode.com/problems/missing-number/
