@@ -268,3 +268,6 @@ https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 
 89. Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/
+
+90. Insert Delete GetRandom O(1)
+https://leetcode.com/problems/insert-delete-getrandom-o1/
