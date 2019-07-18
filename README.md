@@ -274,3 +274,6 @@ https://leetcode.com/problems/insert-delete-getrandom-o1/
 
 91. Palindrome Linked List
 https://leetcode.com/problems/palindrome-linked-list/
+
+92. Delete Node in a Linked List
+https://leetcode.com/problems/delete-node-in-a-linked-list/
