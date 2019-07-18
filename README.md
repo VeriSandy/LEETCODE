@@ -292,3 +292,9 @@ https://leetcode.com/problems/missing-number/
 
 97. Move Zeroes
 https://leetcode.com/problems/move-zeroes/
+
+98. Lowest Common Ancestor of a Binary Search Tree
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
+99. Lowest Common Ancestor of a Binary Tree
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
