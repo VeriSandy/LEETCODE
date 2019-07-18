@@ -283,3 +283,6 @@ https://leetcode.com/problems/sliding-window-maximum/
 
 94. Reverse String
 https://leetcode.com/problems/reverse-string/
+
+95. Valid Anagram
+https://leetcode.com/problems/valid-anagram/
