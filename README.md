@@ -316,3 +316,6 @@ https://leetcode.com/problems/power-of-two/
 
 105. Power of Three
 https://leetcode.com/problems/power-of-three/
+
+106. Serialize and Deserialize Binary Tree
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
