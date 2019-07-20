@@ -307,3 +307,12 @@ https://leetcode.com/problems/top-k-frequent-elements/
 
 102. Odd Even Linked List
 https://leetcode.com/problems/odd-even-linked-list/
+
+103. Power of Four
+https://leetcode.com/problems/power-of-four/
+
+104. Power of Two
+https://leetcode.com/problems/power-of-two/
+
+105. Power of Three
+https://leetcode.com/problems/power-of-three/
