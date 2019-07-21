@@ -319,3 +319,6 @@ https://leetcode.com/problems/power-of-three/
 
 106. Serialize and Deserialize Binary Tree
 https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+
+107. Find Median from Data Stream
+https://leetcode.com/problems/find-median-from-data-stream/
