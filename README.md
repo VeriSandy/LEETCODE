@@ -334,3 +334,6 @@ https://leetcode.com/problems/counting-bits/
 
 111. Merge Two Binary Trees
 https://leetcode.com/problems/merge-two-binary-trees/
+
+112. Daily Temperatures
+https://leetcode.com/problems/daily-temperatures/
