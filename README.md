@@ -346,3 +346,6 @@ https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 
 115. Decode String
 https://leetcode.com/problems/decode-string/
+
+116. Palindromic Substrings
+https://leetcode.com/problems/palindromic-substrings/
