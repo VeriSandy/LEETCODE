@@ -349,3 +349,6 @@ https://leetcode.com/problems/decode-string/
 
 116. Palindromic Substrings
 https://leetcode.com/problems/palindromic-substrings/
+
+117. Next Permutation
+https://leetcode.com/problems/next-permutation/
