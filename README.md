@@ -352,3 +352,6 @@ https://leetcode.com/problems/palindromic-substrings/
 
 117. Next Permutation
 https://leetcode.com/problems/next-permutation/
+
+118. Maximal Rectangle
+https://leetcode.com/problems/maximal-rectangle/
