@@ -355,3 +355,6 @@ https://leetcode.com/problems/next-permutation/
 
 118. Maximal Rectangle
 https://leetcode.com/problems/maximal-rectangle/
+
+119. Maximal Square
+https://leetcode.com/problems/maximal-square/
