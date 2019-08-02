@@ -358,3 +358,8 @@ https://leetcode.com/problems/maximal-rectangle/
 
 119. Maximal Square
 https://leetcode.com/problems/maximal-square/
+
+120. Unique Binary Search Trees
+https://leetcode.com/problems/unique-binary-search-trees/
+
+
