@@ -362,4 +362,11 @@ https://leetcode.com/problems/maximal-square/
 120. Unique Binary Search Trees
 https://leetcode.com/problems/unique-binary-search-trees/
 
+121. Best Time to Buy and Sell Stock with Cooldown
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 
+122. Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+123. Best Time to Buy and Sell Stock II
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
