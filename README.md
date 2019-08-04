@@ -370,3 +370,9 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 123. Best Time to Buy and Sell Stock II
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+124. Best Time to Buy and Sell Stock III
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+
+125. Best Time to Buy and Sell Stock IV
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
