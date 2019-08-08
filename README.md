@@ -376,3 +376,6 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 
 125. Best Time to Buy and Sell Stock IV
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+126. Partition Equal Subset Sum
+https://leetcode.com/problems/partition-equal-subset-sum/
