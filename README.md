@@ -379,3 +379,6 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 
 126. Partition Equal Subset Sum
 https://leetcode.com/problems/partition-equal-subset-sum/
+
+127. Triples with Bitwise AND Equal To Zero
+https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
