@@ -388,3 +388,6 @@ https://leetcode.com/problems/queue-reconstruction-by-height/
 
 129. Subsets
 https://leetcode.com/problems/subsets/
+
+130. Longest Valid Parentheses
+https://leetcode.com/problems/longest-valid-parentheses/
