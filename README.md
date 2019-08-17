@@ -394,3 +394,7 @@ https://leetcode.com/problems/longest-valid-parentheses/
 
 131. Remove Invalid Parentheses
 https://leetcode.com/problems/remove-invalid-parentheses/
+
+132. Kth Largest Element in an Array
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+
