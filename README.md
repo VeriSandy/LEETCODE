@@ -391,3 +391,6 @@ https://leetcode.com/problems/subsets/
 
 130. Longest Valid Parentheses
 https://leetcode.com/problems/longest-valid-parentheses/
+
+131. Remove Invalid Parentheses
+https://leetcode.com/problems/remove-invalid-parentheses/
