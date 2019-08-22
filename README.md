@@ -412,3 +412,7 @@ https://leetcode.com/problems/linked-list-cycle-ii/
 
 137. Coin Change
 https://leetcode.com/problems/coin-change/
+
+138. Longest Increasing Subsequence
+https://leetcode.com/problems/longest-increasing-subsequence/
+
