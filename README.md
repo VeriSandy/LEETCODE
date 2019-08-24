@@ -424,3 +424,7 @@ https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 141. Minimum Path Sum
 https://leetcode.com/problems/minimum-path-sum/
+
+142. Diameter of Binary Tree
+https://leetcode.com/problems/diameter-of-binary-tree/
+
