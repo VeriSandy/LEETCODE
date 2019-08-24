@@ -419,4 +419,8 @@ https://leetcode.com/problems/longest-increasing-subsequence/
 139. Task Scheduler
 https://leetcode.com/problems/task-scheduler/
 
+140. Shortest Unsorted Continuous Subarray
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
+141. Minimum Path Sum
+https://leetcode.com/problems/minimum-path-sum/
