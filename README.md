@@ -40,6 +40,8 @@ https://leetcode.com/problems/maximum-subarray/
 
 
 
+
+
 14. Add Two Numbers, given in the form of linked list
 https://leetcode.com/problems/add-two-numbers/
 
@@ -428,3 +430,14 @@ https://leetcode.com/problems/minimum-path-sum/
 142. Diameter of Binary Tree
 https://leetcode.com/problems/diameter-of-binary-tree/
 
+143. Convert BST to Greater Tree
+https://leetcode.com/problems/convert-bst-to-greater-tree/
+
+144. Edit Distance
+https://leetcode.com/problems/edit-distance/
+
+145. Perfect Squares
+https://leetcode.com/problems/perfect-squares/
+
+146. Find All Numbers Disappeared in an Array
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
