@@ -2,9 +2,8 @@
 Target Sum --
 
 Idea --
-This is a classic knapsack problem
-in knapsack, we decide whether we choose this element or not
-in this question, we decide whether we add this element or minus it
+Similar to knapsack, there we decide whether we choose this element or not
+Here, decide whether, add this element or subtract it
 
 So start with a two dimensional array dp[i][j] which means the number of ways for first i-th element to reach a sum j
 
