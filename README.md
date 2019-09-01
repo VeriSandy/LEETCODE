@@ -451,3 +451,6 @@ https://leetcode.com/problems/regular-expression-matching/
 149. Unique Binary Search Trees II
 https://leetcode.com/problems/unique-binary-search-trees-ii/
 
+150. Subarray Sum Equals K
+https://leetcode.com/problems/subarray-sum-equals-k/
+
