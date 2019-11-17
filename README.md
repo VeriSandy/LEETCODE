@@ -471,3 +471,7 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 
 156. Longest Common Subsequence
 https://leetcode.com/problems/longest-common-subsequence/
+
+157. Longest Arithmetic Subsequence of Given Difference
+https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+
