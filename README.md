@@ -478,5 +478,11 @@ https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference
 158.  Integer to Roman
 https://leetcode.com/problems/integer-to-roman/
 
+159. 3Sum Closest
+https://leetcode.com/problems/3sum-closest/
+
+160. 4Sum
+https://leetcode.com/problems/4sum/
+
 
 
