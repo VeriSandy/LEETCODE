@@ -484,5 +484,15 @@ https://leetcode.com/problems/3sum-closest/
 160. 4Sum
 https://leetcode.com/problems/4sum/
 
+161. Remove Element
+https://leetcode.com/problems/remove-element/
+
+162. Reverse Nodes in k-Group
+https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+163. Swap Nodes in Pairs
+https://leetcode.com/problems/swap-nodes-in-pairs/
+
+164.
 
 
