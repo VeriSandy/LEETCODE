@@ -496,3 +496,6 @@ https://leetcode.com/problems/swap-nodes-in-pairs/
 164. Spiral Matrix II
 https://leetcode.com/problems/spiral-matrix-ii/
 
+165. Rotate List
+https://leetcode.com/problems/rotate-list/
+
