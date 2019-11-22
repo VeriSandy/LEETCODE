@@ -502,3 +502,8 @@ https://leetcode.com/problems/rotate-list/
 166. Permutations II
 https://leetcode.com/problems/permutations-ii/
 
+167. Search Insert Position
+https://leetcode.com/problems/search-insert-position/
+
+168. Combination Sum II
+https://leetcode.com/problems/combination-sum-ii/
