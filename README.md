@@ -507,3 +507,30 @@ https://leetcode.com/problems/search-insert-position/
 
 168. Combination Sum II
 https://leetcode.com/problems/combination-sum-ii/
+
+169. Substring with Concatenation of All Words
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+
+170. Multiply Strings
+https://leetcode.com/problems/multiply-strings/
+
+171. Length of Last Word
+https://leetcode.com/problems/length-of-last-word/
+
+172. Permutation Sequence
+https://leetcode.com/problems/permutation-sequence/
+
+173. Add Binary
+https://leetcode.com/problems/add-binary/
+
+174. Remove Duplicates from Sorted List
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+175. Search in Rotated Sorted Array II
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+
+176. Remove Duplicates from Sorted Array II
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+
+177. https://leetcode.com/problems/search-a-2d-matrix/
+https://leetcode.com/problems/search-a-2d-matrix/
