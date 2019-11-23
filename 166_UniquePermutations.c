@@ -1,4 +1,3 @@
-
 /*
 Ideas -- 
 
@@ -10,6 +9,13 @@ For Unique combinations ->
 If the next fixed number has been seen in the previous number dont print the permutations for it. 
     
 */
+/*
+int compare(void *a, void *b)
+{
+    return (*(int *)a - *(int *)b);
+}
+*/
+
 int fib(int n)
 {
     int f[n+1];
@@ -64,6 +70,13 @@ void Util(int* nums, int l, int h, int **arr, int *n)
     
     for(i = l; i < h; i++)
     {
+        //This will not work here as we are swapping the elements so array 
+        //might not be sorted further.
+        //This works only if we are in sorted order
+        /*
+        if(i > l && nums[i] == nums[i-1])
+            continue;
+        */
         if(i > l && ShouldNotSwap(nums, l, i))
             continue;
         
@@ -80,6 +93,9 @@ int** permuteUnique(int* nums, int numsSize, int* returnSize,
     //no of max permutations
     int total = fib(numsSize);
     //printf("%d %d %d\n", total, nums[0], nums[1]);
+    
+    
+    //qsort(nums,numsSize, sizeof(int), compare);
     
     int n = 0, i = 0, min = nums[0], max = nums[0];
     int **a = malloc(sizeof(int *)*total);
