@@ -541,3 +541,9 @@ https://leetcode.com/problems/fibonacci-number/
 179. Remove Duplicates from Sorted List II
 https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 
+180. Path Sum
+https://leetcode.com/problems/path-sum/
+
+181. Path Sum II
+https://leetcode.com/problems/path-sum-ii/
+
