@@ -559,4 +559,7 @@ https://leetcode.com/problems/balanced-binary-tree/
 185. Convert Sorted List to Binary Search Tree
 https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 
+186. Construct Binary Tree from Inorder and Postorder Traversal
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 
+187. 
