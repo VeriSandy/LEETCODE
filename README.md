@@ -582,3 +582,9 @@ https://leetcode.com/problems/n-queens/
 
 193. N-Queens II
 https://leetcode.com/problems/n-queens-ii/
+
+194. Find Minimum in Rotated Sorted Array
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+195. Find Minimum in Rotated Sorted Array II
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
