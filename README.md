@@ -577,3 +577,8 @@ https://leetcode.com/problems/subsets-ii/
 191. Combinations
 https://leetcode.com/problems/combinations/
 
+192. N-Queens
+https://leetcode.com/problems/n-queens/
+
+193. N-Queens II
+https://leetcode.com/problems/n-queens-ii/
