@@ -588,3 +588,11 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 195. Find Minimum in Rotated Sorted Array II
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+
+196.  Pascal's Triangle II
+https://leetcode.com/problems/pascals-triangle-ii/
+
+197. Populating Next Right Pointers in Each Node II
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+
+
