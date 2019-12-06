@@ -602,4 +602,16 @@ https://leetcode.com/problems/sum-root-to-leaf-numbers/
 199. Clone Graph
 https://leetcode.com/problems/clone-graph/
 
-200.
+200. Cells with Odd Values in a Matrix
+https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
+
+201. Minimum Increment to Make Array Unique
+https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+
+202. Duplicate Zeros
+https://leetcode.com/problems/duplicate-zeros/
+
+203.  Minimum Time Visiting All Points
+https://leetcode.com/problems/minimum-time-visiting-all-points/
+
+
