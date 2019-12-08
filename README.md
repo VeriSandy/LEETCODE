@@ -614,4 +614,9 @@ https://leetcode.com/problems/duplicate-zeros/
 203.  Minimum Time Visiting All Points
 https://leetcode.com/problems/minimum-time-visiting-all-points/
 
+204. Count Square Submatrices with All Ones
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+
+205. Find Winner on a Tic Tac Toe Game
+https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 
