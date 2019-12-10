@@ -623,3 +623,8 @@ https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 206. Number of Burgers with No Waste of Ingredients
 https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
 
+207. Subtract the Product and Sum of Digits of an Integer
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
+
+
