@@ -632,5 +632,11 @@ https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 209. Find Numbers with Even Number of Digits
 https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
+210.  N-ary Tree Preorder Traversal
+https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+
+211. N-ary Tree Postorder Traversal
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+
 
 
