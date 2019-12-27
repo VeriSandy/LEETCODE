@@ -640,3 +640,10 @@ https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 
 212. N-ary Tree Level Order Traversal
 https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+
+213. Find the Town Judge
+https://leetcode.com/problems/find-the-town-judge/
+
+214. Flower Planting With No Adjacent
+https://leetcode.com/problems/flower-planting-with-no-adjacent/
+
