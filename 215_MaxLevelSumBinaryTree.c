@@ -58,3 +58,60 @@ int maxLevelSum(struct TreeNode* root)
     
     return level;
 }
+
+=============================================================================================================================
+//Complete level order traversal
+
+int Height(struct TreeNode* root)
+{
+    if(root == NULL) return 0;
+    
+    int l = Height(root->left);
+    int r = Height(root->right);
+    
+    return l>r?l+1:r+1;
+}
+
+void SumUtility(struct TreeNode* root, int base, int level, int *sum)
+{
+    if(base > level || root == NULL)
+        return;
+    
+    if(base == level)
+    {
+        *sum += root->val;
+    }
+    
+    SumUtility(root->left, base+1, level, sum);
+    SumUtility(root->right, base+1, level, sum);
+    
+    return;
+}
+
+int maxLevelSum(struct TreeNode* root)
+{
+    if(root == NULL)
+        return 1;
+    
+    int h = Height(root);
+    
+    int i = 0;
+    int sum = 0;
+    int max = INT_MIN, level = 0;
+    
+    while(i < h)
+    {
+        sum = 0;
+        SumUtility(root, 0, i, &sum);
+        i++;
+        //printf("%d \n", sum);
+        
+        if(sum > max)
+        {
+            level = i;
+            max = sum;
+        }
+    }
+    
+    return level;
+}
