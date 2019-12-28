@@ -647,3 +647,6 @@ https://leetcode.com/problems/find-the-town-judge/
 214. Flower Planting With No Adjacent
 https://leetcode.com/problems/flower-planting-with-no-adjacent/
 
+215. Maximum Level Sum of a Binary Tree
+https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+
