@@ -659,3 +659,13 @@ https://leetcode.com/problems/minimum-absolute-difference/
 218.Keyboard Row
 https://leetcode.com/problems/keyboard-row/
 
+219. Next Greater Element I
+https://leetcode.com/problems/next-greater-element-i/
+
+220. Next Greater Element II
+https://leetcode.com/problems/next-greater-element-ii/
+
+221.Next Greater Element III
+https://leetcode.com/problems/next-greater-element-iii/
+
+
