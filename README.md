@@ -677,4 +677,7 @@ https://leetcode.com/problems/keys-and-rooms/
 224. Maximum Number of Occurrences of a Substring
 https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 
-225. 
+225. Redundant Connection
+https://leetcode.com/problems/redundant-connection/
+
+226. 
