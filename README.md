@@ -680,4 +680,10 @@ https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 225. Redundant Connection
 https://leetcode.com/problems/redundant-connection/
 
-226. 
+226. Network Delay Time
+https://leetcode.com/problems/network-delay-time/submissions/
+
+227. Find Mode in Binary Search Tree
+https://leetcode.com/problems/find-mode-in-binary-search-tree/
+
+
