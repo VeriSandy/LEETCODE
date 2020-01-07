@@ -694,3 +694,8 @@ https://leetcode.com/problems/continuous-subarray-sum/submissions/
 
 230. Contiguous Array
 https://leetcode.com/problems/contiguous-array/
+
+231. Detect Capital
+https://leetcode.com/problems/detect-capital/
+
+
