@@ -686,4 +686,11 @@ https://leetcode.com/problems/network-delay-time/submissions/
 227. Find Mode in Binary Search Tree
 https://leetcode.com/problems/find-mode-in-binary-search-tree/
 
+228. Perfect Number
+https://leetcode.com/problems/perfect-number/
 
+229. Continuous Subarray Sum
+https://leetcode.com/problems/continuous-subarray-sum/submissions/
+
+230. Contiguous Array
+https://leetcode.com/problems/contiguous-array/
