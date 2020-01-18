@@ -698,4 +698,6 @@ https://leetcode.com/problems/contiguous-array/
 231. Detect Capital
 https://leetcode.com/problems/detect-capital/
 
+232. Stone Game
+https://leetcode.com/problems/stone-game/
 
