@@ -704,3 +704,6 @@ https://leetcode.com/problems/stone-game/
 233. Minimum Falling Path Sum
 https://leetcode.com/problems/minimum-falling-path-sum/
 
+234. Minimum Cost For Tickets
+https://leetcode.com/problems/minimum-cost-for-tickets/
+
