@@ -713,4 +713,6 @@ https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers
 236. Minimum Flips to Make a OR b Equal to c
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 
+237. Maximum 69 Number
+https://leetcode.com/problems/maximum-69-number/
 
