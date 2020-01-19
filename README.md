@@ -701,3 +701,6 @@ https://leetcode.com/problems/detect-capital/
 232. Stone Game
 https://leetcode.com/problems/stone-game/
 
+233. Minimum Falling Path Sum
+https://leetcode.com/problems/minimum-falling-path-sum/
+
