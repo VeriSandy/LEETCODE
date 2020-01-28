@@ -716,3 +716,8 @@ https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 237. Maximum 69 Number
 https://leetcode.com/problems/maximum-69-number/
 
+238. Degree of an Array
+https://leetcode.com/problems/degree-of-an-array/
+
+
+
