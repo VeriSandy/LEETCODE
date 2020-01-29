@@ -728,3 +728,8 @@ https://leetcode.com/problems/decompress-run-length-encoded-list/
 241. Squares of a Sorted Array
 https://leetcode.com/problems/squares-of-a-sorted-array/submissions/
 
+242. Height Checker
+https://leetcode.com/problems/height-checker/
+
+
+
