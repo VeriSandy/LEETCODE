@@ -725,4 +725,6 @@ https://leetcode.com/problems/majority-element-ii/
 240. Decompress Run-Length Encoded List
 https://leetcode.com/problems/decompress-run-length-encoded-list/
 
+241. Squares of a Sorted Array
+https://leetcode.com/problems/squares-of-a-sorted-array/submissions/
 
