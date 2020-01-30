@@ -734,4 +734,6 @@ https://leetcode.com/problems/height-checker/
 243. Array Partition I
 https://leetcode.com/problems/array-partition-i/
 
+244. Third Maximum Number
+https://leetcode.com/problems/third-maximum-number/
 
