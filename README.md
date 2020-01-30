@@ -737,3 +737,9 @@ https://leetcode.com/problems/array-partition-i/
 244. Third Maximum Number
 https://leetcode.com/problems/third-maximum-number/
 
+245. Find All Duplicates in an Array
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+246. Non-decreasing Array
+https://leetcode.com/problems/non-decreasing-array/
+
