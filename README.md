@@ -749,3 +749,9 @@ https://leetcode.com/problems/check-if-n-and-its-double-exist/
 248. Number of Steps to Reduce a Number to Zero
 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
+249. Minimum Number of Steps to Make Two Strings Anagram
+https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+
+250. Tweet Counts Per Frequency
+https://leetcode.com/problems/tweet-counts-per-frequency/
+
