@@ -743,3 +743,9 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/
 246. Non-decreasing Array
 https://leetcode.com/problems/non-decreasing-array/
 
+247. Check If N and Its Double Exist
+https://leetcode.com/problems/check-if-n-and-its-double-exist/
+
+248. Number of Steps to Reduce a Number to Zero
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
