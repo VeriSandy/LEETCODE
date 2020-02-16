@@ -770,3 +770,9 @@ https://leetcode.com/problems/remove-outermost-parentheses/
 255. Angle Between Hands of a Clock
 https://leetcode.com/problems/angle-between-hands-of-a-clock/
 
+256. Count Negative Numbers in a Sorted Matrix
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/
+
+257. Product of the Last K Numbers
+https://leetcode.com/problems/product-of-the-last-k-numbers/
+
