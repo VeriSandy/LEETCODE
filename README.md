@@ -776,3 +776,6 @@ https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/submissi
 257. Product of the Last K Numbers
 https://leetcode.com/problems/product-of-the-last-k-numbers/
 
+258. Rank Transform of an Array
+https://leetcode.com/problems/rank-transform-of-an-array/
+
