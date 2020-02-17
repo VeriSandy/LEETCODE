@@ -782,3 +782,6 @@ https://leetcode.com/problems/rank-transform-of-an-array/
 259. Sum of Subarray Minimums
 https://leetcode.com/problems/sum-of-subarray-minimums/
 
+260. The K Weakest Rows in a Matrix
+https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+
