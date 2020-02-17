@@ -785,3 +785,6 @@ https://leetcode.com/problems/sum-of-subarray-minimums/
 260. The K Weakest Rows in a Matrix
 https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 
+261. Peak Index in a Mountain Array
+https://leetcode.com/problems/peak-index-in-a-mountain-array/
+
