@@ -788,3 +788,7 @@ https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 261. Peak Index in a Mountain Array
 https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
+262. Minimum Add to Make Parentheses Valid
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+
+263. 
