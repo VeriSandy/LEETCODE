@@ -791,4 +791,13 @@ https://leetcode.com/problems/peak-index-in-a-mountain-array/
 262. Minimum Add to Make Parentheses Valid
 https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
-263. 
+263. Minimum Moves to Equal Array Elements
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+
+264. Minimum Moves to Equal Array Elements II
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
+
+265.  Maximum Product of Word Lengths
+https://leetcode.com/problems/maximum-product-of-word-lengths/
+
+
