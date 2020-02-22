@@ -800,4 +800,5 @@ https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 265.  Maximum Product of Word Lengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/
 
-
+266. Repeated DNA Sequences
+https://leetcode.com/problems/repeated-dna-sequences/
