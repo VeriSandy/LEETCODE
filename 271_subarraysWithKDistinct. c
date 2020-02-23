@@ -1,0 +1,130 @@
+/*
+To directly count the subarrays with exactly K different integers is hard but to find the count of subarrays with at most K different integers is easy. 
+So the idea is to find the count of subarrays with at most K different integers, let it be C(K), and the count of subarrays with at most (K – 1) different integers, let it be C(K – 1) and finally take their difference, C(K) – C(K – 1) which is the required answer.
+
+Count of subarrays with at most K different elements can be easily calculated through the sliding window technique. 
+The idea is to keep expanding the right boundary of the window till the count of distinct elements in the window is less than or equal to K and when the count of distinct elements inside the window becomes more than K, start shrinking the window from the left till the count becomes less than or equal to K. 
+Also for every expansion, keep counting the subarrays as right–left+1 where right and left are the boundaries of the current window.
+
+https://www.geeksforgeeks.org/count-of-subarrays-having-exactly-k-distinct-elements/
+
+Ex - 
+1 2 3 4 5
+find out the No of subarrays to max 4 different ints
+
+right = 0, left = 0, size = 0, count = 0
+
+---
+1 -->(after processing 1) right = 1, left = 0, size = 1, count = 1
+//no of subarrays of max 4 different ints 
+//    (1)
+---
+
+---
+1 2 -->(after processing 2) right = 2, left = 0, size = 2, count = 3
+// no of subarrays of max 4 different ints 
+//    (1) (2) (1,2) ==> total 3 as count
+---
+
+--
+1 2 3 -->(after processing 3) right = 3, left = 0, size = 3, count = 6
+// no of subarrays of max 4 different ints 
+//    (1) (2) (3) (1,2) (2,3) (1,2,3) ==> total 6 as count
+---
+
+--
+1 2 3 4 -->(after processing 4) right = 4, left = 0, size = 4, count = 10
+// no of subarrays of max 4 different ints 
+//    (1) (2) (3) (4) (1,2) (2,3) (3,4) (1,2,3) (2,3,4) (1,2,3,4) ==> total 10 as count
+--
+
+---
+1 2 3 4 5 -->(after processing 5) right = 5, left = 1, size = 4, count = 15 -1 ==> 14
+// no of subarrays of max 4 different ints
+
+//(1) (2) (3) (4) (1,2) (2,3) (3,4) (1,2,3) (2,3,4) (1,2,3,4) ==> total 10 as count
+
+//consider new window of 2,3,4 ,5
+// (5) { as (2) (3) (4) already taken}
+// (4,5) {as (2,3) (3,4) already taken}
+// (3,4,5){as (2,3,4) already taken }
+// (2,3,4,5)
+
+So tatal 14 different subarrays.
+(1) (2) (3) (4) (1,2) (2,3) (3,4) (1,2,3) (2,3,4) (1,2,3,4) (5) (4,5) (3,4,5) (2,3,4,5)
+==> total 14 as count
+---
+
+Example 2.
+1 2 3 4 4
+find out the No of subarrays to max 4 different ints
+
+right = 0, left = 0, size = 0, count = 0
+
+---
+1 -->(after processing 1) right = 1, left = 0, size = 1, count = 1
+//no of subarrays of max 4 different ints 
+//    (1)
+---
+
+---
+1 2 -->(after processing 2) right = 2, left = 0, size = 2, count = 3
+// no of subarrays of max 4 different ints 
+//    (1) (2) (1,2) ==> total 3 as count
+---
+
+--
+1 2 3 -->(after processing 3) right = 3, left = 0, size = 3, count = 6
+// no of subarrays of max 4 different ints 
+//    (1) (2) (3) (1,2) (2,3) (1,2,3) ==> total 6 as count
+---
+
+--
+1 2 3 4 -->(after processing 4) right = 4, left = 0, size = 4, count = 10
+// no of subarrays of max 4 different ints 
+//    (1) (2) (3) (4) (1,2) (2,3) (3,4) (1,2,3) (2,3,4) (1,2,3,4) ==> total 10 as count
+--
+
+---
+1 2 3 4 4 -->(after processing 4) right = 5, left = 0, size = 4, count = 15 ==> 15
+// no of subarrays of max 4 different ints
+//(1) (2) (3) (4) (4) (1,2) (2,3) (3,4) (4,4) (1,2,3) (2,3,4) (3,4,4) (1,2,3,4) (2,3,4,4) (1,2,3,4,4)
+// ==> total 15 as count
+
+*/
+
+int Util(int* A, int ASize, int K)
+{    
+    int hash[20001] = {0};
+    int size = 0, right = 0, left = 0, k = 0, count = 0;
+    
+    while(right < ASize)
+    {
+        if(!hash[A[right]])
+            size++;
+
+        hash[A[right]]++;
+        
+        while(size > K)
+        {
+            if(hash[A[left]])
+            {
+                hash[A[left]]--;
+                if(!hash[A[left]])
+                    size--;
+            }
+            left++;
+        }
+        
+        count += right -left +1;
+        right++;
+    }
+    
+    //printf("%d\n", count);
+    return count;
+}
+
+int subarraysWithKDistinct(int* A, int ASize, int K)
+{
+    return Util(A, ASize, K) - Util(A, ASize, K-1);
+}
