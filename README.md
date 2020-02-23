@@ -1,4 +1,16 @@
 # LEETCODE PROBLEMS
+
+
+
+272. Number of Substrings Containing All Three Characters
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+271. Count Number of Nice Subarrays
+https://leetcode.com/problems/count-number-of-nice-subarrays/
+=============================================================================================================================
+=============================================================================================================================
+=============================================================================================================================
+
 1. Two Sum
 https://leetcode.com/problems/two-sum/
 
@@ -814,7 +826,3 @@ https://leetcode.com/problems/number-of-days-between-two-dates/
 
 270. Subarrays with K Different Integers
 https://leetcode.com/problems/subarrays-with-k-different-integers/
-
-271. Count Number of Nice Subarrays
-https://leetcode.com/problems/count-number-of-nice-subarrays/
-
