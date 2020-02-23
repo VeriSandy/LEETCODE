@@ -809,6 +809,11 @@ https://leetcode.com/problems/bitwise-and-of-numbers-range/
 268. Closest Divisors
 https://leetcode.com/problems/closest-divisors/
 
-269. Number of Days Between Two Dates
+270. Number of Days Between Two Dates
 https://leetcode.com/problems/number-of-days-between-two-dates/
 
+271. Subarrays with K Different Integers
+https://leetcode.com/problems/subarrays-with-k-different-integers/
+
+272. Count Number of Nice Subarrays
+https://leetcode.com/problems/count-number-of-nice-subarrays/
