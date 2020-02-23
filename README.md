@@ -806,4 +806,9 @@ https://leetcode.com/problems/repeated-dna-sequences/
 267. Bitwise AND of Numbers Range
 https://leetcode.com/problems/bitwise-and-of-numbers-range/
 
+268. Closest Divisors
+https://leetcode.com/problems/closest-divisors/
+
+269. Number of Days Between Two Dates
+https://leetcode.com/problems/number-of-days-between-two-dates/
 
