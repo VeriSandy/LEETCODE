@@ -1,6 +1,10 @@
 # LEETCODE PROBLEMS
 
+274. Isomorphic Strings
+https://leetcode.com/problems/isomorphic-strings/
 
+273. Word Pattern
+https://leetcode.com/problems/word-pattern/
 
 272. Number of Substrings Containing All Three Characters
 https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
