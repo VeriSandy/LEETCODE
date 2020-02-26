@@ -1,5 +1,11 @@
 # LEETCODE PROBLEMS
 
+277.H-Index II
+https://leetcode.com/problems/h-index-ii/
+
+276. H-Index
+https://leetcode.com/problems/h-index/
+
 275. Rotate String
 https://leetcode.com/problems/rotate-string/
 
