@@ -1,5 +1,8 @@
 # LEETCODE PROBLEMS
 
+282. Evaluate Reverse Polish Notation
+https://leetcode.com/problems/evaluate-reverse-polish-notation/
+
 281. Repeated String Match
 https://leetcode.com/problems/repeated-string-match/
 
