@@ -1,5 +1,8 @@
 # LEETCODE PROBLEMS
 
+280. Repeated Substring Pattern
+https://leetcode.com/problems/repeated-substring-pattern/
+
 279. Shortest Palindrome
 https://leetcode.com/problems/shortest-palindrome/
 
