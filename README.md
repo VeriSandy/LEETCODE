@@ -1,5 +1,8 @@
 # LEETCODE PROBLEMS
 
+285. Contains Duplicate II
+https://leetcode.com/problems/contains-duplicate-ii/
+
 284. Basic Calculator II
 https://leetcode.com/problems/basic-calculator-ii/
 
