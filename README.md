@@ -1,7 +1,10 @@
 # LEETCODE PROBLEMS
 
-286.  Two Sum IV - Input is a BST
+287.  Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+
+286. Contains Duplicate III
+https://leetcode.com/problems/contains-duplicate-iii/
 
 285. Contains Duplicate II
 https://leetcode.com/problems/contains-duplicate-ii/
