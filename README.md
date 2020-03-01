@@ -1,5 +1,10 @@
 # LEETCODE PROBLEMS
 
+
+
+288. How Many Numbers Are Smaller Than the Current Number
+https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+
 287.  Two Sum IV - Input is a BST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 
