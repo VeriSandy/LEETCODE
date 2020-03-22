@@ -1,6 +1,10 @@
 # LEETCODE PROBLEMS
 
+292. Ugly Number II
+https://leetcode.com/problems/ugly-number-ii/
 
+291. Ugly Number
+https://leetcode.com/problems/ugly-number/
 
 290. Add Two Numbers II
 https://leetcode.com/problems/add-two-numbers-ii/
